@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "listas.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "validacion.h": "c",
+        "tipo_elemento.h": "c"
+    }
+}
